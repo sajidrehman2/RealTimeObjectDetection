@@ -1,3 +1,6 @@
-ultralytics
-opencv-python
 streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
+
