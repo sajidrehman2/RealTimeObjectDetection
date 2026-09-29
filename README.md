@@ -103,7 +103,7 @@ Annotated Output
 | Model                | YOLOv8 Nano (`yolov8n.pt`) |
 
 ---
-
+   
 # 🧠 AI Model
 
 The application uses the **YOLOv8 Nano** model trained on the **COCO dataset**, enabling detection of **80 common object categories** including:
